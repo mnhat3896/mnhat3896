@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mnhat3896](https://github.com/mnhat3896)
 
-- 📝 I regularly write articles on [https://dev2ops.net/en/](https://dev2ops.net/en/)
-
 - 📫 How to reach me **mnhat3896@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
